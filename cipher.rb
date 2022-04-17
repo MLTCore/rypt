@@ -105,4 +105,4 @@ end
 
 # Class for symmetric ciphers
 class SymCipher < Cipher
-end
+end 
